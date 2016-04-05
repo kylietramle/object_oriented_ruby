@@ -13,6 +13,11 @@ stuffed_animals = [
     :color => "white",
     :price => 35,
   }
+
+  { :type => "mouse",
+    :color => "black",
+    :price => 45,
+  }
 ]
 
 p stuffed_animals
