@@ -1,5 +1,5 @@
 class StuffedAnimals
-  attr_reader :type, :color, :price
+  attr_reader :type, :color,
   def initialize(attributes_hash)
     @type = attributes_hash[:type]
     @color = attributes_hash[:color]
